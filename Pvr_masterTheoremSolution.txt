@@ -1,0 +1,10 @@
+a) T(n) = Θ(n^log23) 
+Description  -> Θ(n power log3 base 2).
+
+b) can't calculate as given function  'f(n)' is negative.
+
+c) can't calculate as 'a' is not a constant value.
+
+d) T(n) = Θ(nlogn)
+
+e) T(n) = Θ(n^2) 
